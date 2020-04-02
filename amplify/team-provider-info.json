@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-automotivefreddy-dev-230201-authRole",
+            "UnauthRoleArn": "arn:aws:iam::318517518828:role/amplify-automotivefreddy-dev-230201-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::318517518828:role/amplify-automotivefreddy-dev-230201-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-automotivefreddy-dev-230201-deployment",
+            "UnauthRoleName": "amplify-automotivefreddy-dev-230201-unauthRole",
+            "StackName": "amplify-automotivefreddy-dev-230201",
+            "StackId": "arn:aws:cloudformation:us-east-1:318517518828:stack/amplify-automotivefreddy-dev-230201/413c7ee0-71e3-11ea-b334-0e9711d18427",
+            "AmplifyAppId": "d3g8nra3ht1x7"
+        },
+        "categories": {
+            "auth": {
+                "automotivefreddy17a54d0d": {}
+            }
+        }
+    }
+}

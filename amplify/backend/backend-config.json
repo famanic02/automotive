@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"automotivefreddy17a54d0d": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
